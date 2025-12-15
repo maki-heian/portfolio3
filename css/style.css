@@ -31,3 +31,42 @@ body{
     
     
 }
+
+.calender{
+    border: solid 1px;
+    width: 100%;
+    text-align: center;
+}
+
+.apile1{
+    text-align: center;
+    border: solid 2px;
+    border-radius: 10px;
+    background-color: #96C78C;
+}
+
+.apile2{
+    text-align: center;
+    border: solid 2px;
+    border-radius: 10px;
+    background-color: #96C78C;
+
+}
+
+.apile3{
+    text-align: center;
+    border: solid 2px;
+    border-radius: 10px;
+    background-color: #96C78C;
+
+}
+
+.link{
+    text-decoration: none;
+    color: #000;
+    
+}
+
+.link:hover{
+    color: aliceblue;
+}
